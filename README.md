@@ -1,3 +1,7 @@
+> **Ovia Inc fork — modification reference.** We maintain this fork of [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge). **Modifications by Ovia Inc:** this reference note, added November 2026 as part of the collection-wide documentation pass; the expanded Ovia README treatment (Ovia section, story, topics and description) follows in the daily improvement queue. Upstream code and content are otherwise unchanged from the fork point, except where a later commit in this repository says so. Upstream credit: trimstray. Licence: MIT (see LICENSE where present).
+
+---
+
 <p align="center">
   <a href="https://github.com/trimstray/the-book-of-secret-knowledge">
     <img src="https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/static/img/the-book-of-secret-knowledge-preview.png" alt="Master">
